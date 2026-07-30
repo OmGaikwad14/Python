@@ -1,11 +1,11 @@
 # Input converts all values in strings
 
-# name = input("enter your name: ")
+name = input("enter your name: ")
 
-# print("Welcomeom", name)
+print("Welcomeom", name)
 
-# val = int(input("enter some value: "))
-# print(type(val), val)
+val = int(input("enter some value: "))
+print(type(val), val)
 
 name = str(input("enter your name: "))
 age = int(input("enter your age: "))
